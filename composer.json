@@ -1,0 +1,12 @@
+{
+    "name": "pevin/php-face-detector",
+    "description": "face detector in pure php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "pevin",
+            "email": "elsenique.pevin@gmail.com"
+        }
+    ],
+    "require": {}
+}

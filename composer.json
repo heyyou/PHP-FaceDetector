@@ -8,5 +8,10 @@
             "email": "elsenique.pevin@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "FaceDetector\\" : "src/"
+        }
+    },
     "require": {}
 }
